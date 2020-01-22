@@ -8,12 +8,12 @@ modelei os dados e anexei as imagens aos schemas da tabela criada e enviei ao ba
 na pagina inicial exibe a lista com todos os pokemons<br>
 na pokedex é possivel procurar o pokemon e exibir alguns dados extras, como evolução
 
-<b>tecnologias<b>
+<b>tecnologias</b>
 
-react js
-axios
+react js<br>
+axios<br>
 
-node js
-mongoose
-cors
-express
+node js<br>
+mongoose<br>
+cors<br>
+express<br>
