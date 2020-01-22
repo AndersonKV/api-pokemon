@@ -1,0 +1,23 @@
+{
+  "name": "pokemon_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "website-to-json": "^1.0.22",
+    "xlsx": "^0.15.4"
+  }
+}
