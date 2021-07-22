@@ -18,6 +18,6 @@
     "node-fetch": "^2.6.0",
     "request": "^2.88.0",
     "website-to-json": "^1.0.22",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   }
 }
